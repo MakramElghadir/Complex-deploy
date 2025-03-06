@@ -1,0 +1,4 @@
+deploy@NDT2025!
+ssh root@172.223.96.145
+
+cluster-web
